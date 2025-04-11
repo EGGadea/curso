@@ -1,118 +1,97 @@
 {
   "hero": {
-    "title": "Aprende a diseñar e implementar Design Tokens",
-    "subtitle": "La mejor formación en español para que domines el diseño, distribución y aplicación de la metodología de Design Tokens. Iniciamos la 2ª edición el 10 de Marzo ¡No te quedes sin plaza!",
-    "button": "Ver sesiones →"
+    "title": "Encuentra tu Equilibrio: Curso Integral de Yoga",
+    "subtitle": "Descubre la armonía entre cuerpo y mente a través de prácticas ancestrales adaptadas a la vida moderna.!",
+    "button": "Descubre el temario →"
   },
   "intro": {
-    "title": "Por qué Design Tokens",
+    "title": "Sobre el curso",
     "subtitle": {
-      "p1": "Los Design Tokens se han establecido como la metodología por excelencia para comunicar las decisiones de diseño entre marcas, equipos y tecnologías. Su potencial se basa en la idea de crear una fuente de la verdad, una guía común desde la que se distribuyan todas las decisiones.",
-      "p2": "Si te interesa optimizar los tiempos de desarrollo, la comunicación entre equipos o los sistemas de diseño en empresas en escala, este curso es para tí."
+      "p1": "Nuestro curso de yoga combina técnicas tradicionales con enfoques modernos para ofrecerte una experiencia transformadora. Tanto si eres principiante como si ya tienes experiencia, aquí encontrarás el camino para mejorar tu bienestar físico, mental y emocional.",
+      "p2": "Si te interesa conectar mente y cuerpo, aprender posturas y técnicas de respiración para reducir el estrés y mejorar la calidad de vida. ¡Este es tu curso!."
     },
     "button": {
-      "primary": "Ir a la formación →",
-      "secondary": "Leer más en substack"
+      "primary": "Descubre el temario →",
+      "secondary": "Inscríbete ahora"
     }
   },
   "logos": {
-    "title": "Las grandes empresas ya trabajan con Design Tokens"
+    "title": "Las grandes empresas colaboran con Yoga"
   },
   "sessions": {
-    "title": "Sesiones",
+    "title": "¿Que te ofrece Yoga?",
     "tag": {
-      "one": "12 SESIONES EN DIRECTO",
-      "two": "24 HORAS",
-      "three": "6H PRÁCTICA GUIADA",
-      "four": "DIPLOMA FINAL",
-      "five": "ACCESO A LA COMUNIDAD"
+      "one": "CLASES PRESENCIALES",
+      "two": "pack de bienvenida",
+      "three": "sesiones individuales",
+      "four": "ACCESO A LA COMUNIDAD"
     },
     "card": {
       "one": {
-        "caption": "SESIÓN 1 - LUNES 10 DE MARZO",
-        "title": "La fuente de la verdad",
-        "description": "Hablaremos del problema de comunicación entre los equipos de diseño y desarrollo y cómo los Design Tokens te ayudarán a mejorar el proceso, siendo la fuente de la verdad. Además de presentarnos y profundizar en lo que veremos durante el curso, mostraremos cómo es un flujo completo desde el diseño a la implementación."
+        "caption": "Módulo 1",
+        "title": "Fundamentos del Yoga",
+        "description": "Hablaremos de la historia y origen del yoga para abarcar los principios básicos y éticos."
       },
       "two": {
-        "caption": "SESIÓN 2 - MARTES 11 DE MARZO",
-        "title": "Arquitectura de Tokens",
-        "description": "Profundizarás en la teoría y buenas prácticas detrás de la implementación de Design Tokens. El objetivo será tener claros los principios y entender la toma de decisiones de su creación."
+        "caption": "Módulo 2",
+        "title": "Posturas y Asanas",
+        "description": "Profundizarás en las posturas para principiantes y avanzados"
       },
       "three": {
-        "caption": "SESIÓN 3 - JUEVES 13 DE MARZO",
-        "title": "Sincronización con Github",
-        "description": "Aprenderás a sincronizar tus Design Tokens entre Figma y GitHub, asegurando que los estilos y componentes de tu aplicación estén siempre actualizados y alineados."
+        "caption": "Módulo 3",
+        "title": "Respiración y Pranayama",
+        "description": "Aprenderás técnicas de respiración para la relajación y la energía."
       },
       "four": {
-        "caption": "SESIÓN 4, 5, 6 - 17, 18, 20 DE MARZO",
-        "title": "Prácticas en Figma y Token Studio",
-        "description": "Entraremos a la práctica de tokenizar nuestra interfaz, entendiendo y profundizando en la creación de Design Tokens con las herramientas de Figma y Token Studio."
+        "caption": "Módulo 4",
+        "title": "Meditación y Mindfulness",
+        "description": "Practicaremos ejercicios para integrar en tu día a día."
       },
       "five": {
-        "caption": "SESIÓN 7 - LUNES 24 DE MARZO",
-        "title": "Style Dictionary",
-        "description": "Descubrirás cómo utilizar Style Dictionary para gestionar tus Design Tokens a partir de una única fuente de la verdad. Veremos cómo configurarlo y alimentarlo desde los Tokens de Figma almacenados en Github."
+        "caption": "Módulo 5",
+        "title": "Estilo de Vida y Filosofía Yoga",
+        "description": "Descubrirás estrategias para incorporar el yoga en tu rutina diaria."
       },
       "six": {
-        "caption": "SESIÓN 8 - MARTES 25 DE MARZO",
-        "title": "Transformadores",
-        "description": "En esta sesión, aprenderás a usar transformadores en Style Dictionary para convertir y adaptar los Design Tokens a las diferentes necesidades de la plataforma."
-      },
-      "seven": {
-        "caption": "SESIÓN 9 - JUEVES 27 DE MARZO",
-        "title": "Formatos",
-        "description": "Verás cómo usar los formatos en Style Dictionary para definir la salida de los Design Tokens en diferentes lenguajes y plataformas (CSS, JavaScript, Swift, XML, etc.). Aprenderás a crear formatos personalizados que se adapten a las necesidades específicas de tu proyecto, permitiendo un flujo de trabajo más eficiente entre el diseño y el desarrollo."
-      },
-      "eight": {
-        "caption": "SESIÓN 10 - LUNES 31 DE MARZO",
-        "title": "Dark Mode",
-        "description": "Descubrirás el flujo completo para implementar el Dark Mode en proyectos utilizando Style Dictionary."
-      },
-      "nine": {
-        "caption": "SESIÓN 11 - MARTES 1 DE ABRIL",
-        "title": "Práctica de código",
-        "description": "Pondremos en práctica todo lo visto en las clases de transformadores y formatos, para que no te quede ninguna duda."
-      },
-      "ten": {
-        "caption": "SESIÓN 12 - JUEVES 3 DE ABRIL",
-        "title": "Presentaciones",
-        "description": "Será una oportunidad para compartir los temas con Design Tokens que se han desarrollado durante el curso, intercambiando ideas, mejoras y despedirnos."
+        "caption": "Módulo 5",
+        "title": "Alimentación consciente",
+        "description": "Esta forma de comer fomenta no solo una mejor digestión y nutrición, sino también una conexión más profunda con el cuerpo y el entorno, favoreciendo el bienestar integral."
       }
     }
   },
-  "teachers": {
+  "Teachers": {
     "one": {
-      "name": "Pablo Fernández Franco",
-      "position": "Platform Team Lead en idealista"
+      "name": "María López",
+      "position": "Especializada en Hatha"
     },
     "two": {
-      "name": "Pablo Peribáñez Tafalla",
-      "position": "Design Systems en idealista"
+      "name": "Carlos Rivera",
+      "position": "Técnicas de meditación "
     },
     "title": "Conoce a los profesores"
   },
   "pricing": {
-    "title": "Precios",
+    "title": "Beneficios del Curso",
     "card": {
       "one": {
         "caption": "NEWSLETTER",
-        "title": "Design Tokens en español",
+        "title": "Todo sobre YOGA",
         "price": "GRATIS",
-        "description": "Suscríbete a nuestra newsletter para recibir píldoras y novedades sobre Design Tokens.",
+        "description": "Suscríbete a nuestra newsletter para recibir promociones y novedades sobre YOGA.",
         "button": "Suscribirme"
       },
       "two": {
-        "caption": "CURSO EN DIRECTO",
-        "title": "Diseño e Implementación de Design Tokens",
-        "price-primary": "950€",
+        "caption": "CURSO 1 año de duración",
+        "title": "Cambia tu estilo de vida",
+        "price-primary": "90€/mes",
         "price-secondary": "",
-        "description": "Aprende el proceso de creación de Design Tokens desde la definición hasta la implementación en desarrollo.",
+        "description": "Más allá de las posturas, este curso te invita a reconectar contigo mismo, reduciendo el estrés, mejorando tu flexibilidad y cultivando una mente serena.",
         "button": "¡ÚLTIMAS PLAZAS!"
       },
       "three": {
-        "caption": "ASESORÍA PRIVADA",
-        "title": "¿Quieres que te ayudemos en tu proyecto?",
-        "description": "Contáctanos para ayudarte de forma más personalizada en tu proyecto o empresa.",
+        "caption": "COACH INDIVIDUAL",
+        "title": "¿Quieres que te ayudemos?",
+        "description": "Contáctanos para ayudarte de forma más personalizada.",
         "button": "Contáctanos"
       }
     }
@@ -122,38 +101,36 @@
   },
   "faqs": {
     "one": {
-      "title": "¿Cuándo serán las clases?",
-      "description": "La 2ª edición empezará el lunes 10 de Marzo. Las clases serán los lunes, martes y jueves, siendo la última sesión el 3 de Abril. El formato será online en directo, empezando a las 18:30 hasta las 20:30 UTC+1 (horario Madrid)."
+      "title": "¿Necesito experiencia previa?",
+      "description": "No, el curso está diseñado para adaptarse tanto a principiantes como a practicantes avanzados."
     },
     "two": {
-      "title": "¿Qué nivel de conocimientos necesito para el curso?",
-      "description": "El curso va dirigido a cualquier perfil involucrado en el desarrollo de productos digitales, desde diseñadores a desarrolladores y product managers que quieran conocer la metodología para mejorar la escalabilidad y comunicación entre equipos a través de los Design Tokens. Daremos por sentada mucha información básica, por lo que si tienes dudas tanto sobre si este curso es para tí, como si va a cubrir tus expectativas, por favor contáctanos por correo y te daremos más info."
+      "title": "¿Qué equipo necesito?",
+      "description": "Solo una esterilla, ropa cómoda y ganas de aprender."
     },
     "three": {
       "title": "¿Necesito saber programar para el curso?",
       "description": "No es necesario. Partiremos desde cero a la hora de enseñar cómo transformar y llevar a producción nuestros Design Tokens, por lo que no tendrás problemas de seguir las clases aunque nunca hayas programado."
     },
     "four": {
-      "title": "¿Se grabarán las clases?",
-      "description": "Sí, cada clase se grabará y se mantendrá disponible por un tiempo limitado, por si necesitas volver a verla o no has podido asistir."
+      "title": "¿Necesito saber programar para el curso?",
+      "description": "No es necesario. Partiremos desde cero a la hora de enseñar cómo transformar y llevar a producción nuestros Design Tokens, por lo que no tendrás problemas de seguir las clases aunque nunca hayas programado."
     },
     "five": {
-      "title": "¿Podré resolver dudas tras el curso?",
-      "description": "Sí, tendrás acceso de por vida a la comunidad de alumnos, donde podrás preguntar dudas y mantenerte al día de las novedades en el mundillo tecnológico y de Design Tokens. Además, tendrás acceso a la Bitácora de contenido, donde actualizaremos referencias y añadiremos contenido extra continuamente."
+      "title": "¿Cómo se imparten las clases?",
+      "description": "Contamos con clases en vivo, videos a demanda y asesorías personalizadas."
     },
     "six": {
-      "title": "¿Habrá más ediciones?",
-      "description": "Sí. Próximamente anunciaremos las fechas de las siguientes ediciones. Puedes mantenerte al tanto siguiendo nuestra página de Linkedin."
+      "title": "¿Puedo acceder al contenido después del curso?",
+      "description": "Sí, tendrás acceso a la plataforma con los recursos y grabaciones de las sesiones."
     },
     "title": "Preguntas frecuentes"
   },
   "footer": {
-    "copyright": "Design Tokens en Español © 2024 Todos los derechos reservados.",
+    "copyright": "YOGA © 2025 Todos los derechos reservados.",
     "link": {
       "privacy": "Política de Privacidad",
-      "mail": "hola@designtokens.es",
-      "linkedin": "Linkedin",
-      "substack": "Substack"
+      "mail": "contacto@cursoyoga.com"
     }
   },
   "language": {
