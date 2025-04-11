@@ -3,6 +3,7 @@ import { register } from '@tokens-studio/sd-transforms';
 import ThemesLoader from 'sd-themes-loader';
 import { platform } from 'os';
 import { transform } from 'typescript';
+import { format } from 'path';
 
 
 register(StyleDictionary,{
@@ -25,6 +26,23 @@ async function run(params) {
     const darkTheme = themes.getThemeByName ('dark');
     const desktopTheme = themes.getThemeByName ('desktop');
     const mobileTheme = themes.getThemeByName ('mobile');
+
+    const copiesTheme = themes.getThemesByGroup ('copies');
+
+
+    const copiesConfig = (theme) => ({
+        platforms: {
+            copies: {
+                files: [
+                    {
+                        destination: `app/build/copies/${theme.name}/texts.json`,
+                        format: 'json/nested'
+                    }
+                ]
+            }
+        }
+
+    });
 
 
     const globalConfig = {
@@ -159,6 +177,7 @@ async function run(params) {
     darkTheme.addConfig(darkConfig).build();
     desktopTheme.addConfig(desktopConfig).build();
     mobileTheme.addConfig(mobileConfig).build();
+    copiesTheme.addConfig(copiesConfig).build();
 
 }
 

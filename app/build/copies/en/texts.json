@@ -1,0 +1,163 @@
+{
+  "hero": {
+    "title": "Learn how to design and implement Design Tokens",
+    "subtitle": "A Spanish training course so you can master the design, distribution, and application of the Design Tokens methodology",
+    "button": "2nd Call Open →"
+  },
+  "intro": {
+    "title": "Why Design Tokens",
+    "subtitle": {
+      "p1": "Design Tokens have established themselves as the methodology of choice for communicating design decisions between brands, teams, and technologies. Their potential is based on the idea of creating a single source of truth, a common guide from which all decisions are distributed.",
+      "p2": "If you are interested in optimizing development times, team communication, or design systems in scaled organizations, this course is for you."
+    },
+    "button": {
+      "primary": "Go to the training →",
+      "secondary": "Read more on Substack"
+    }
+  },
+  "logos": {
+    "title": "Major companies are already working with Design Tokens"
+  },
+  "sessions": {
+    "title": "Sessions",
+    "tag": {
+      "one": "12 LIVE SESSIONS",
+      "two": "24 HOURS",
+      "three": "6H GUIDED PRACTICE",
+      "four": "FINAL DIPLOMA",
+      "five": "COMMUNITY ACCESS"
+    },
+    "card": {
+      "one": {
+        "caption": "SESSION 1",
+        "title": "The Single Source of Truth",
+        "description": "We will discuss the communication problem between design and development teams and how Design Tokens can help you improve the process, serving as the single source of truth. In addition to introductions and delving deeper into what we will cover during the course, we will showcase what a complete workflow looks like from design to implementation."
+      },
+      "two": {
+        "caption": "SESSION 2",
+        "title": "Token Architecture",
+        "description": "You will delve into the theory and best practices behind the implementation of Design Tokens. The goal will be to clarify the principles and understand the decision-making process of their creation."
+      },
+      "three": {
+        "caption": "SESSION 3",
+        "title": "Synchronization with GitHub",
+        "description": "You will learn how to synchronize your Design Tokens between Figma and GitHub, ensuring that your application's styles and components are always up to date and in sync."
+      },
+      "four": {
+        "caption": "SESSION 4, 5, 6",
+        "title": "Hands-on in Figma and Token Studio",
+        "description": "We'll get hands-on with tokenizing our interface, understanding and diving deeper into creating Design Tokens using Figma and Token Studio."
+      },
+      "five": {
+        "caption": "SESSION 7",
+        "title": "Style Dictionary",
+        "description": "You will discover how to use Style Dictionary to manage your Design Tokens from a single source of truth. We will see how to configure it and feed it from the Figma tokens stored in GitHub."
+      },
+      "six": {
+        "caption": "SESSION 8",
+        "title": "Transformers",
+        "description": "In this session, you will learn how to use transformers in Style Dictionary to convert and adapt Design Tokens to various platform needs."
+      },
+      "seven": {
+        "caption": "SESSION 9",
+        "title": "Formats",
+        "description": "You will see how to use formats in Style Dictionary to define the output of Design Tokens in different languages and platforms (CSS, JavaScript, Swift, XML, etc.). You will learn how to create custom formats that cater to your project's specific needs, enabling a more efficient workflow between design and development."
+      },
+      "eight": {
+        "caption": "SESSION 10",
+        "title": "Dark Mode",
+        "description": "You will discover the complete workflow for implementing Dark Mode in projects using Style Dictionary."
+      },
+      "nine": {
+        "caption": "SESSION 11",
+        "title": "Coding Practice",
+        "description": "We will put into practice everything covered in the sessions about transformers and formats, so you won't have any doubts."
+      },
+      "ten": {
+        "caption": "SESSION 12",
+        "title": "Presentations",
+        "description": "This will be an opportunity to share the Design Tokens projects developed during the course, exchange ideas and improvements, and say our farewells."
+      }
+    }
+  },
+  "teachers": {
+    "one": {
+      "name": "Pablo Fernández Franco",
+      "position": "Platform Team Lead at idealista"
+    },
+    "two": {
+      "name": "Pablo Peribáñez Tafalla",
+      "position": "Design Systems at idealista"
+    },
+    "title": "Meet the Instructors"
+  },
+  "pricing": {
+    "title": "Pricing",
+    "card": {
+      "one": {
+        "caption": "NEWSLETTER",
+        "title": "Design Tokens in Spanish",
+        "price": "FREE",
+        "description": "Subscribe to our newsletter to receive bite-sized updates and news about Design Tokens.",
+        "button": "Subscribe"
+      },
+      "two": {
+        "caption": "LIVE COURSE",
+        "title": "Design and Implementation of Design Tokens",
+        "price-primary": "€850",
+        "price-secondary": "€950",
+        "description": "Learn the process of creating Design Tokens from definition to implementation in development.",
+        "button": "LIMITED SEATS!"
+      },
+      "three": {
+        "caption": "PRIVATE CONSULTING",
+        "title": "Need our help with your project?",
+        "description": "Contact us for personalized assistance with your project or company.",
+        "button": "Contact Us"
+      }
+    }
+  },
+  "video": {
+    "title": "We'll tell you more in a video"
+  },
+  "faqs": {
+    "one": {
+      "title": "When will the classes be held?",
+      "description": "The 2nd edition will start on Monday, March 10. Classes will be on Mondays, Tuesdays, and Thursdays, with the last session on April 3. The format will be live online, starting at 6:30 PM UTC+1 (Madrid time)."
+    },
+    "two": {
+      "title": "What level of knowledge do I need for the course?",
+      "description": "The course is aimed at anyone involved in the development of digital products, from designers to developers and product managers who want to learn the methodology to improve scalability and team communication through Design Tokens. We will assume quite a bit of basic information, so if you have any doubts about whether this course is for you, or if it will meet your expectations, please contact us by email and we will provide more info."
+    },
+    "three": {
+      "title": "Do I need to know how to program for the course?",
+      "description": "No. We will start from scratch when teaching how to transform and bring our Design Tokens into production, so you will have no trouble following the lessons even if you've never programmed before."
+    },
+    "four": {
+      "title": "Will the classes be recorded?",
+      "description": "Yes, each class will be recorded and kept available for a limited time, in case you need to rewatch or were unable to attend."
+    },
+    "five": {
+      "title": "Will I be able to ask questions after the course?",
+      "description": "Yes, you will have lifetime access to the student community, where you can ask questions and stay up to date on the latest in technology and Design Tokens. Plus, you'll have access to the Content Log, where we'll continually update references and add extra content."
+    },
+    "six": {
+      "title": "Will there be more editions?",
+      "description": "Yes. We will announce the dates for future editions soon. You can stay informed by following our LinkedIn page."
+    },
+    "title": "Frequently Asked Questions"
+  },
+  "footer": {
+    "copyright": "Design Tokens in Spanish © 2024 All rights reserved.",
+    "link": {
+      "privacy": "Privacy Policy",
+      "mail": "hola@designtokens.es",
+      "linkedin": "LinkedIn",
+      "substack": "Substack"
+    }
+  },
+  "language": {
+    "es": "Español",
+    "en": "English"
+  }
+}
